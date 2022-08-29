@@ -1,5 +1,5 @@
 import assert from 'assert';
-import greet from '../enough-airtime.js';
+import enoughAirtime from '../enoughAirtime.js';
 
 describe('Testing the Enough Airtime function' , function(){
     it('if you check how many times you can make calls, it shoult return the total cost of airtime you can use for calls' , function(){
